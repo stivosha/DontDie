@@ -1,0 +1,249 @@
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Grass.jpg
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Player.png
+A:\projects\DontDie\Don't Die\obj\Debug\Don't Die.csprojAssemblyReference.cache
+A:\projects\DontDie\Don't Die\obj\Debug\Don_t_Die.Properties.Resources.resources
+A:\projects\DontDie\Don't Die\obj\Debug\Don't Die.csproj.GenerateResource.cache
+A:\projects\DontDie\Don't Die\obj\Debug\Don't Die.csproj.CoreCompileInputs.cache
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_0.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_1.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_2.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_3.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_4.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_5.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_6.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_7.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_8.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_0.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_1.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_2.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_3.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_0.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_1.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_2.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_3.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animals\cow.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Foods\apple.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Foods\meal.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_down.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_left.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_right.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_up.png
+A:\projects\DontDie\Don't Die\bin\Debug\Dont_Die.exe.config
+A:\projects\DontDie\Don't Die\bin\Debug\Dont_Die.exe
+A:\projects\DontDie\Don't Die\bin\Debug\Dont_Die.pdb
+A:\projects\DontDie\Don't Die\obj\Debug\Dont_Die.exe
+A:\projects\DontDie\Don't Die\obj\Debug\Dont_Die.pdb
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_down.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_left.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_right.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_up.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_down.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_left.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_right.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_up.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Gui\Inventory.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Foods\apple_16x16.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Foods\apple_golden_16x16.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Foods\bread_16x16.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Foods\carrot_16x16.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Foods\carrot_golden_16x16.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Blocks\glowstone_32x32.png
+A:\projects\DontDie\Don't Die\bin\Debug\Textures\Blocks\grass_32x32.jpg
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\obj\Debug\Don't Die.csprojAssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\obj\Debug\Don_t_Die.Properties.Resources.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\obj\Debug\Don't Die.csproj.GenerateResource.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\obj\Debug\Dont_Die.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\obj\Debug\Dont_Die.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animals\cow.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_down.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_left.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_right.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_up.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_down.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_left.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_right.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_up.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_down.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_left.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_right.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_up.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Blocks\glowstone_32x32.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Blocks\grass_32x32.jpg
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Foods\apple.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Foods\apple_16x16.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Foods\apple_golden_16x16.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Foods\bread_16x16.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Foods\carrot_16x16.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Foods\carrot_golden_16x16.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Foods\meal.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Grass.jpg
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Gui\Inventory.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_0.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_0.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_1.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_2.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_3.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_1.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_0.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_1.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_2.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_3.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_2.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_3.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_4.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_5.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_6.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_7.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\LightsBlocks\light_8.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Textures\Player.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Dont_Die.exe.config
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Dont_Die.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't Die\bin\Debug\Dont_Die.pdb
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animals\cow.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_down.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_left.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_right.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_up.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_down.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_left.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_right.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_up.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_down.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_left.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_right.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_up.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_down.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_left.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_right.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_up.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_down.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_left.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_right.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_up.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Blocks\glowstone_32x32.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Blocks\grass_32x32.jpg
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Foods\apple.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Foods\apple_16x16.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Foods\apple_golden_16x16.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Foods\bread_16x16.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Foods\carrot_16x16.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Foods\carrot_golden_16x16.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Foods\meal.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Grass.jpg
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Gui\Inventory.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_0.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_0.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_1.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_2.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_3.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_1.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_0.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_1.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_2.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_3.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_2.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_3.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_4.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_5.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_6.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_7.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\LightsBlocks\light_8.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Player.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Dont_Die.exe.config
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Dont_Die.exe
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Dont_Die.pdb
+C:\Users\stivosha\Desktop\Don't Die\obj\Debug\Don't Die.csprojAssemblyReference.cache
+C:\Users\stivosha\Desktop\Don't Die\obj\Debug\Don_t_Die.Properties.Resources.resources
+C:\Users\stivosha\Desktop\Don't Die\obj\Debug\Don't Die.csproj.GenerateResource.cache
+C:\Users\stivosha\Desktop\Don't Die\obj\Debug\Don't Die.csproj.CoreCompileInputs.cache
+C:\Users\stivosha\Desktop\Don't Die\obj\Debug\Dont_Die.exe
+C:\Users\stivosha\Desktop\Don't Die\obj\Debug\Dont_Die.pdb
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Blocks\sand_32x32.png
+C:\Users\stivosha\Desktop\Don't Die\bin\Debug\Textures\Blocks\seablock_32x32.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\nunit.engine.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\nunit.engine.api.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_down.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_left.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_right.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_up.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_down.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_left.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_right.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_up.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Blocks\sand_32x32.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\Textures\Blocks\seablock_32x32.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\nunit.framework.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\nunit.framework.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\bin\Debug\nunit.framework.xml
+C:\Users\Пользователь\OneDrive\Рабочий стол\Don't die\obj\Debug\Don't Die.csproj.CopyComplete
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\nunit.engine.dll
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\nunit.engine.api.dll
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animals\cow.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_down.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_left.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_right.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\AttackBySword\Char_atk_up.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_down.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_left.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_right.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Idle\Char_idle_up.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_down.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_left.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_right.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Player\Walk\Char_walk_up.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_down.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_left.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_right.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Idle\Skel_idle_up.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_down.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_left.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_right.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Animation\Skeleton\Walk\Skel_walk_up.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Blocks\glowstone_32x32.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Blocks\grass_32x32.jpg
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Blocks\sand_32x32.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Blocks\seablock_32x32.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Foods\apple.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Foods\apple_16x16.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Foods\apple_golden_16x16.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Foods\bread_16x16.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Foods\carrot_16x16.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Foods\carrot_golden_16x16.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Foods\meal.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Grass.jpg
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Gui\Inventory.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_0.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_0.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_1.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_2.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_0_3.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_1.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_0.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_1.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_2.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_1_3.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_2.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_3.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_4.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_5.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_6.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_7.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\LightsBlocks\light_8.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Textures\Player.png
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Dont_Die.exe.config
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Dont_Die.exe
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\Dont_Die.pdb
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\nunit.framework.dll
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\nunit.framework.pdb
+C:\Users\stivosha\Desktop\Game\Don't Die\bin\Debug\nunit.framework.xml
+C:\Users\stivosha\Desktop\Game\Don't Die\obj\Debug\Don't Die.csprojAssemblyReference.cache
+C:\Users\stivosha\Desktop\Game\Don't Die\obj\Debug\Don_t_Die.Properties.Resources.resources
+C:\Users\stivosha\Desktop\Game\Don't Die\obj\Debug\Don't Die.csproj.GenerateResource.cache
+C:\Users\stivosha\Desktop\Game\Don't Die\obj\Debug\Don't Die.csproj.CoreCompileInputs.cache
+C:\Users\stivosha\Desktop\Game\Don't Die\obj\Debug\Don't Die.csproj.CopyComplete
+C:\Users\stivosha\Desktop\Game\Don't Die\obj\Debug\Dont_Die.exe
+C:\Users\stivosha\Desktop\Game\Don't Die\obj\Debug\Dont_Die.pdb
